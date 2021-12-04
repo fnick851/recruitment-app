@@ -1,2 +1,3 @@
 .venv
 credentials.md
+*.sqlite3
