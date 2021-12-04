@@ -35,3 +35,9 @@ Initiate an app:
 ```sh
 python manage.py startapp [appname]
 ```
+
+Change password:
+
+```sh
+python manage.py changepassword [username]
+```
